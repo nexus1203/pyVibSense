@@ -20,7 +20,7 @@ pyVibSense is the official user interface designed for data collection and visua
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/pyVibSense/pyVibSense.git](https://github.com/nexus1203/pyVibSense)
+   git clone https://github.com/nexus1203/pyVibSense.git
 2. **Navigate to the Directory and Install Dependencies:**
   ```bash
   Copy code
