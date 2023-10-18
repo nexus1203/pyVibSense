@@ -1,0 +1,6 @@
+{
+    "min_value": -5,
+    "max_value": 5,
+    "sensitivity": 0.1,
+    "sensitivity_units": "VOLTS_PER_G"
+}
