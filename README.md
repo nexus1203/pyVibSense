@@ -23,13 +23,11 @@ pyVibSense is the official user interface designed for data collection and visua
    git clone https://github.com/nexus1203/pyVibSense.git
 2. **Navigate to the Directory and Install Dependencies:**
   ```bash
-  Copy code
   cd pyVibSense
   pip install -r requirements.txt
   ```
 3. **Run the Application:**
   ```bash
-  Copy code
   python main.py
   ```
 
