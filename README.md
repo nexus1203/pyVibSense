@@ -1,6 +1,9 @@
 # pyVibSense :chart_with_upwards_trend:
 pyVibSense is the official user interface designed for data collection and visualization using the [VibSense](https://github.com/nexus1203/VibSense) wireless vibration sensor.
 
+![image](https://github.com/nexus1203/pyVibSense/assets/70212520/51f5598c-be53-4c70-9a26-c5bc1f80a884)
+
+
 :star: **Key Features**:
 - **Real-time Data Visualization**: Seamlessly view and analyze vibration data in real-time.
 - **Socket Integration**: Built-in socket communication ensures efficient data transfer from VibSense devices.
