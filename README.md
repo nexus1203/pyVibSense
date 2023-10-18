@@ -5,7 +5,7 @@ pyVibSense is the official user interface designed for data collection and visua
 - **Real-time Data Visualization**: Seamlessly view and analyze vibration data in real-time.
 - **Socket Integration**: Built-in socket communication ensures efficient data transfer from VibSense devices.
 - **Modern UI**: Powered by PyQt5, pyVibSense offers a sleek and intuitive user interface.
-- **Easy Data Export**: Export the collected data in various formats for further processing or analysis.
+- **Easy Data Export**: Export the collected data in csv format for further processing or analysis.
 
 ## :gear: Requirements
 
